@@ -1,3 +1,20 @@
+<h1 align="center">Prerequisites</h1>
+
+- Install Docker Desktop and WSL2 using this [guide](https://docs.docker.com/desktop/windows/wsl/).
+- Install [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) for Visual Studio Code.
+- Clone this repository using your WSL2 install.
+- Open Visual Studio Code.
+- Press 'Ctrl + Shift + P'.
+- Search for 'Dev Containers: Open Folder in Container' and press Enter.
+- The container will now start
+
+<h1 align="center">Running</h1>
+
+- The debug configuration called 'fullstack' can be used to debug server and client.
+- Start this configuration using F5 or the 'Run and Debug' tab.
+
+
+
 <br><p align="center">
 <img height="100px" src="./public/movies.webp" />
 </p>
